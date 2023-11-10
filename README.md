@@ -7,13 +7,11 @@ The graph is weighted. Each edge _e_ has a cost _c(e)_, as well as a profit _p(e
 What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimizes the total cost, while maximizing the total profit.<br />
 
 ### Input Format:
-'''
 _n m_<br />
 _fep(e<sub>1</sub>) sep(e<sub>1</sub>) p(e<sub>1</sub>) c(e<sub>1</sub>)_<br />
 _fep(e<sub>2</sub>) sep(e<sub>2</sub>) p(e<sub>2</sub>) c(e<sub>2</sub>)_<br />
 _..._<br />
 _fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)_<br />
-'''
 
 where:<br />
 _n_: the total number of vertices of _G_<br />
