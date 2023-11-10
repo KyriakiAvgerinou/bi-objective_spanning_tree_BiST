@@ -14,19 +14,19 @@ _..._
 _fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)_
 
 where:
--_n_: the total number of vertices of _G_
--_m_: the total number of edges of _G_
--_fep(e<sub>m</sub>)_: the first endpoint of edge _e<sub>m</sub>_
--_sep(e<sub>m</sub>)_: the second endpoint of edge _e<sub>m</sub>_
--_p(e<sub>m</sub>)_: the profit that edge _e<sub>m</sub>_ holds
--_c(e<sub>m</sub>)_: the cost that edge _e<sub>m</sub>_ holds
+_n_: the total number of vertices of _G_
+_m_: the total number of edges of _G_
+_fep(e<sub>m</sub>)_: the first endpoint of edge _e<sub>m</sub>_
+_sep(e<sub>m</sub>)_: the second endpoint of edge _e<sub>m</sub>_
+_p(e<sub>m</sub>)_: the profit that edge _e<sub>m</sub>_ holds
+_c(e<sub>m</sub>)_: the cost that edge _e<sub>m</sub>_ holds
 
 ### Output Format:
 _tp tc_
 
 where:
--_tp_: the total profit of _T_
--_tc_: the total cost of _T_
+_tp_: the total profit of _T_
+_tc_: the total cost of _T_
 
 ### Restrictions:
 -_2 <= n <= 50.000_
