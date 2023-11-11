@@ -17,6 +17,8 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
 <br />
 
 where:<br />
+|                                                                                                                          |
+|----------------------------------------------------------------------------------|---------------------------------------|
 |* _n_: the total number of vertices of _G_<br />                                  |* _tp_: the total profit of _T_<br />  |
 |* _m_: the total number of edges of _G_<br />                                     |* _tc_: the total cost of _T_<br />    |
 |* _fep(e<sub>m</sub>)_: the first endpoint of edge _e<sub>m</sub>_<br />          |                                       |
