@@ -14,14 +14,14 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
     <td><b>Output Format:</b></td>
   </tr>
   <tr>
-    <td align="center">
-      <i>"n m          <br />
+    <td>
+      <i>"n m<br />
       fep(e<sub>1</sub>) sep(e<sub>1</sub>) p(e<sub>1</sub>) c(e<sub>1</sub>)<br />
       fep(e<sub>2</sub>) sep(e<sub>2</sub>) p(e<sub>2</sub>) c(e<sub>2</sub>)<br />
       ...<br />
       fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)"</i><br />
     </td>
-    <td align="center"><i>"tp tc"</i></td>
+    <td><i>"tp tc"</i></td>
   </tr>
   <tr>
     <td>where:</td>
