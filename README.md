@@ -1,4 +1,4 @@
-# Bi-Objective Spanning Tree - BiST
+# Bi-objective Spanning Tree - BiST
 
 Find the _Minimum Spanning Tree_ that minimizes the _total cost_, while maximizing the _total profit_.<br />
 
