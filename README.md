@@ -30,7 +30,8 @@ where:<br />
 * _tp_: the total profit of _T_<br />
 * _tc_: the total cost of _T_<br />
 
-#### Restrictions:
+
+##### Restrictions:
 * _2 ≤ n ≤ 50.000_<br />
 * _1 ≤ m ≤ 200.000_<br />
 * _1 ≤ fep(e), sep(e) ≤ n, fep(e) !== sep(e)_<br />
