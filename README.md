@@ -19,7 +19,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
       ...<br />
       fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)"</i><br />
     </td>
-    <td>_"tp tc"_</td>
+    <td><i>"tp tc"</i></td>
   </tr>
   <tr>
     <td>where:</td>
@@ -27,16 +27,16 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
   </tr>
     <tr>
     <td>
-      * _n_: the total number of vertices of _G_<br />
-      * _m_: the total number of edges of _G_<br />
-      * _fep(e<sub>m</sub>)_: the first endpoint of edge _e<sub>m</sub>_<br />
-      * _sep(e<sub>m</sub>)_: the second endpoint of edge _e<sub>m</sub>_<br />
-      * _p(e<sub>m</sub>)_: the profit that edge _e<sub>m</sub>_ holds<br />
-      * _c(e<sub>m</sub>)_: the cost that edge _e<sub>m</sub>_ holds<br />
+      <i>n</i>: the total number of vertices of <i>G</i><br />
+      <i>m</i>: the total number of edges of <i>G</i><br />
+      <i>fep(e<sub>m</sub>)</i>: the first endpoint of edge <i>e<sub>m</sub></i><br />
+      <i>sep(e<sub>m</sub>)</i>: the second endpoint of edge <i>e<sub>m</sub></i><br />
+      <i>p(e<sub>m</sub>)</i>: the profit that edge <i>e<sub>m</sub></i> holds<br />
+      <i>c(e<sub>m</sub>)</i>: the cost that edge <i>e<sub>m</sub></i> holds<br />
     </td>
     <td>
-      * _tp_: the total profit of _T_<br />
-      * _tc_: the total cost of _T_<br />
+      <i>tp</i>: the total profit of <i>T</i><br />
+      <i>tc</i>: the total cost of <i>T</i><br />
     </td>
   </tr>
 </table>
