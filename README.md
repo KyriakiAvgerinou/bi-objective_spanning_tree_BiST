@@ -28,8 +28,7 @@ _tp tc_<br />
 where:<br />
 
 * _tp_: the total profit of _T_<br />
-* _tc_: the total cost of _T_<br />
-
+* _tc_: the total cost of _T_<br /><br />
 
 ##### Restrictions:
 * _2 ≤ n ≤ 50.000_<br />
