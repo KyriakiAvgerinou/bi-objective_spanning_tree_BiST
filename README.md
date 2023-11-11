@@ -24,7 +24,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
     <td><i>"p(T) c(T)"</i></td>
   </tr>
   <tr>
-    <td border: 0px;>where:</td>
+    <td>where:</td>
     <td></td>
   </tr>
     <tr>
