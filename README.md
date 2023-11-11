@@ -31,7 +31,7 @@ where:<br />
 * _tc_: the total cost of _T_<br />
 
 #### Restrictions:
-* _2 \le n \le 50.000_<br />
-* _1 \le m \le 200.000_<br />
-* _1 \le fep(e), sep(e) \le n, fep(e) !== sep(e)_<br />
-* _1 \le p(e), c(e) \le 200_
+* _2 ≤ n ≤ 50.000_<br />
+* _1 ≤ m ≤ 200.000_<br />
+* _1 ≤ fep(e), sep(e) ≤ n, fep(e) !== sep(e)_<br />
+* _1 ≤ p(e), c(e) ≤ 200_
