@@ -2,7 +2,7 @@
 
 Find the _Minimum Spanning Tree_ that minimizes the _total cost_, while maximizing the _total profit_.<br />
 
-![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/6dbb0e9c-863e-48dd-92a1-61d594aaa0c7)
+![graph_2](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/479bb3ba-fe78-4b65-8d7c-e09da1ed3bf1)
 
 We are given a connected, undirected graph _G(V, E)_, where _|V| = n_ is the total number of vertices and _|E| = m_ is the total number of edges.<br />
 The graph is weighted. Each edge _e_ has a cost _c(e)_, as well as a profit _p(e)_.<br />
