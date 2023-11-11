@@ -6,6 +6,8 @@ We are given a connected, undirected graph _G(V, E)_, where _|V| = n_ is the tot
 The graph is weighted. Each edge _e_ has a cost _c(e)_, as well as a profit _p(e)_.<br />
 What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimizes the total cost, while maximizing the total profit.<br />
 
+<br />
+
 <table align="center">
   <tr>
     <td>Input Format:</td>
@@ -40,8 +42,6 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
     </td>
   </tr>
 </table>
-
-<br />
 
 ##### Restrictions:
 * _2 ≤ n ≤ 50.000_<br />
