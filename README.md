@@ -21,7 +21,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
       ...<br />
       fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)"</i><br />
     </td>
-    <td><i>"tp tc"</i></td>
+    <td><i>"p(T) c(T)"</i></td>
   </tr>
   <tr>
     <td>where:</td>
@@ -37,8 +37,8 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
       <i>c(e<sub>m</sub>)</i>: the cost that edge <i>e<sub>m</sub></i> holds<br />
     </td>
     <td>
-      <i>tp</i>: the total profit of <i>T</i><br />
-      <i>tc</i>: the total cost of <i>T</i><br />
+      <i>p(T)</i>: the total profit of <i>T</i><br />
+      <i>c(T)</i>: the total cost of <i>T</i><br />
     </td>
   </tr>
 </table>
