@@ -15,7 +15,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
   </tr>
   <tr>
     <td align="center">
-      <i>"n m<br />
+      <i>"n m          <br />
       fep(e<sub>1</sub>) sep(e<sub>1</sub>) p(e<sub>1</sub>) c(e<sub>1</sub>)<br />
       fep(e<sub>2</sub>) sep(e<sub>2</sub>) p(e<sub>2</sub>) c(e<sub>2</sub>)<br />
       ...<br />
