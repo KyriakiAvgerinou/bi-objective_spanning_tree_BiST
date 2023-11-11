@@ -10,8 +10,8 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
 
 <table align="center">
   <tr>
-    <td><b>Input Format:</b></td>
-    <td><b>Output Format:</b></td>
+    <th>Input Format:</th>
+    <th>Output Format:</th>
   </tr>
   <tr>
     <td>
