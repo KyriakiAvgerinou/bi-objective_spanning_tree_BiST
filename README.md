@@ -1,6 +1,6 @@
 # Bi-objective Spanning Tree - BiST
 
-Find the Minimum Spanning Tree that minimizes the total cost, while maximizing the total profit.<br />
+Find the _Minimum Spanning Tree_ that minimizes the _total cost_, while maximizing the _total profit_.<br />
 
 We are given a connected, undirected graph _G(V, E)_, where _|V| = n_ is the total number of vertices and _|E| = m_ is the total number of edges.<br />
 The graph is weighted. Each edge _e_ has a cost _c(e)_, as well as a profit _p(e)_.<br />
