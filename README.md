@@ -8,7 +8,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
 
 <br />
 
-<table align="center">
+<table align="center", border: hidden;>
   <tr>
     <td><b>Input Format:</b></td>
     <td><b>Output Format:</b></td>
@@ -23,7 +23,7 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
     </td>
     <td><i>"p(T) c(T)"</i></td>
   </tr>
-  <tr border: hidden;>
+  <tr>
     <td>where:</td>
     <td></td>
   </tr>
