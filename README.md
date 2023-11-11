@@ -13,11 +13,11 @@ What we want to do is to find the Minimum Spanning Tree _T_ of _G_ that minimize
   </tr>
   <tr>
     <td>
-      _"n m_<br />
-      _fep(e<sub>1</sub>) sep(e<sub>1</sub>) p(e<sub>1</sub>) c(e<sub>1</sub>)_<br />
-      _fep(e<sub>2</sub>) sep(e<sub>2</sub>) p(e<sub>2</sub>) c(e<sub>2</sub>)_<br />
-      _..._<br />
-      _fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)"_<br />
+      <i>"n m<br />
+      fep(e<sub>1</sub>) sep(e<sub>1</sub>) p(e<sub>1</sub>) c(e<sub>1</sub>)<br />
+      fep(e<sub>2</sub>) sep(e<sub>2</sub>) p(e<sub>2</sub>) c(e<sub>2</sub>)<br />
+      ...<br />
+      fep(e<sub>m</sub>) sep(e<sub>m</sub>) p(e<sub>m</sub>) c(e<sub>m</sub>)"</i><br />
     </td>
     <td>_"tp tc"_</td>
   </tr>
