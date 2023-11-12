@@ -53,10 +53,4 @@ We want to find the minimum spanning tree _T_ of _G_ that maximizes the total pr
 
 Here's an example of an initial connected, undirected graph _G(V, E)_ and its optimal MSTs _T_ that maximize the total profit to total cost ratio:<br />
 
-<table align="center">
-  <tr>
-    <td>
-      ![graph2](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/c71f07e2-daf4-4fb4-b5b0-d48e914b348c)
-    </td>
-  </tr>
-</table>
+![graph2](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/c71f07e2-daf4-4fb4-b5b0-d48e914b348c)
