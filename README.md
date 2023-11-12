@@ -49,4 +49,4 @@ What we want to do is to find the minimum spanning tree _T_ of _G_ that minimize
 * _1 ≤ fep(e), sep(e) ≤ n, fep(e) ≠ sep(e)_<br />
 * _1 ≤ p(e), c(e) ≤ 200_<br /><br />
 
-![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/6ca8d665-a360-470f-9af0-714e8c63e54f)
+![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/ec3a97c2-f854-430a-a412-643db4838dc1)
