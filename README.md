@@ -49,6 +49,8 @@ We want to find the minimum spanning tree _T_ of _G_ that maximizes the total pr
 * _1 ≤ fep(e), sep(e) ≤ n, fep(e) ≠ sep(e)_<br />
 * _1 ≤ p(e), c(e) ≤ 200_<br />
 
-Here's an example of an initial connected, undirected graph _G(V, E)_ and its optimal MSTs that maximize the total profit to total cost ratio:<br />
+<br />
+
+Here's an **example** of an initial connected, undirected graph _G(V, E)_ and its optimal MSTs that maximize the total profit to total cost ratio:<br />
 
 ![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/ec3a97c2-f854-430a-a412-643db4838dc1)
