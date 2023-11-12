@@ -4,7 +4,7 @@ Find the _Minimum Spanning Tree_ that minimizes the _total cost_, while maximizi
 
 We are given a connected, undirected graph _G(V, E)_, where _|V| = n_ is the total number of vertices and _|E| = m_ is the total number of edges.<br />
 The graph is weighted. Each edge _e_ holds a profit _p(e)_, as well as a cost _c(e)_.<br />
-What we want to do is to find the minimum spanning tree _T_ of _G_ that minimizes the total cost, while maximizing the total profit.<br />
+We want to find the minimum spanning tree _T_ of _G_ that minimizes the total cost, while maximizing the total profit.<br />
 
 <br />
 
