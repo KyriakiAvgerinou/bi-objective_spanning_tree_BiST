@@ -59,7 +59,7 @@ Here's an example of an initial connected, undirected graph _G_ (where each edge
 
 In the first case:<br />
 <p align="center">
-   <img src="https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/blob/main/images/sum1.png?raw=true"/>
+   <img src=""/>
 </p>
 In the second case:<br />
 <p align="center">
