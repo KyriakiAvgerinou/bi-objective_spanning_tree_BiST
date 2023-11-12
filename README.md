@@ -6,8 +6,6 @@ We are given a connected, undirected graph _G(V, E)_, where _|V| = n_ is the tot
 The graph is weighted. Each edge _e_ has a cost _c(e)_, as well as a profit _p(e)_.<br />
 What we want to do is to find the minimum spanning tree _T_ of _G_ that minimizes the total cost, while maximizing the total profit.<br />
 
-![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/6ca8d665-a360-470f-9af0-714e8c63e54f)
-
 <br />
 
 <table align="center">
@@ -49,4 +47,6 @@ What we want to do is to find the minimum spanning tree _T_ of _G_ that minimize
 * _2 ≤ n ≤ 50.000_<br />
 * _1 ≤ m ≤ 200.000_<br />
 * _1 ≤ fep(e), sep(e) ≤ n, fep(e) ≠ sep(e)_<br />
-* _1 ≤ p(e), c(e) ≤ 200_
+* _1 ≤ p(e), c(e) ≤ 200_<br />
+
+![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/6ca8d665-a360-470f-9af0-714e8c63e54f)
