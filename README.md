@@ -56,3 +56,12 @@ Here's an example of an initial connected, undirected graph _G(V, E)_ and its op
 <p align="center">
    <img src="https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/blob/main/images/problem_example_image.png?raw=true"/>
 </p>
+
+In the first case:<br />
+<p align="center">
+   <img src=""/>
+</p>
+In the second case:<br />
+<p align="center">
+   <img src=""/>
+</p>
