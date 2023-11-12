@@ -55,6 +55,8 @@ Here's an example of an initial connected, undirected graph _G(V, E)_ and its op
 
 <table align="center">
   <tr>
-    <td>![graph2](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/1aacbfcd-586e-4072-b758-eaa6ef87428b)</td>
+    <td>
+      ![graph2](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/c71f07e2-daf4-4fb4-b5b0-d48e914b348c)
+    </td>
   </tr>
 </table>
