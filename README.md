@@ -47,6 +47,6 @@ What we want to do is to find the minimum spanning tree _T_ of _G_ that minimize
 * _2 ≤ n ≤ 50.000_<br />
 * _1 ≤ m ≤ 200.000_<br />
 * _1 ≤ fep(e), sep(e) ≤ n, fep(e) ≠ sep(e)_<br />
-* _1 ≤ p(e), c(e) ≤ 200_<br />
+* _1 ≤ p(e), c(e) ≤ 200_<br /><br />
 
 ![graph](https://github.com/KyriakiAvgerinou/bi-objective_spanning_tree_BiST/assets/99874332/6ca8d665-a360-470f-9af0-714e8c63e54f)
